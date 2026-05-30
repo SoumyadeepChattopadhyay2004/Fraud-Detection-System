@@ -1,6 +1,6 @@
 # 🔐 Real-Time Fraud Detection System with Explainable AI
 
-> **IEEE-CIS Fraud Detection | Internship Capstone Project**
+> **IEEE-CIS Fraud Detection**
 
 ## Overview
 End-to-end fraud detection system using LightGBM, XGBoost, Isolation Forest + SHAP explainability.
